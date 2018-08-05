@@ -1,0 +1,15 @@
+C:\Users\AliOnur\Documents\Visual Studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe.config
+C:\Users\AliOnur\Documents\Visual Studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+C:\Users\AliOnur\Documents\Visual Studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+C:\Users\AliOnur\Documents\Visual Studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+C:\Users\AliOnur\Documents\Visual Studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.Cache
+C:\Users\AliOnur\Documents\Visual Studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+C:\Users\AliOnur\Documents\Visual Studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb
+C:\Users\AliOnur\Documents\Visual Studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csprojResolveAssemblyReference.cache
+C:\Users\AliOnur\Documents\Visual Studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.FormApplication.resources
+C:\Users\AliOnur\Desktop\Okul_1\Nesne Tabanlı Programlama\Ödevler\Proje_ödevi\Yeni klasör\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe.config
+C:\Users\AliOnur\Desktop\Okul_1\Nesne Tabanlı Programlama\Ödevler\Proje_ödevi\Yeni klasör\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+C:\Users\AliOnur\Desktop\Okul_1\Nesne Tabanlı Programlama\Ödevler\Proje_ödevi\Yeni klasör\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb
+C:\Users\AliOnur\Desktop\Okul_1\Nesne Tabanlı Programlama\Ödevler\Proje_ödevi\Yeni klasör\AliOnurUlker_G151210122\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe.config
+C:\Users\AliOnur\Desktop\Okul_1\Nesne Tabanlı Programlama\Ödevler\Proje_ödevi\Yeni klasör\AliOnurUlker_G151210122\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+C:\Users\AliOnur\Desktop\Okul_1\Nesne Tabanlı Programlama\Ödevler\Proje_ödevi\Yeni klasör\AliOnurUlker_G151210122\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb

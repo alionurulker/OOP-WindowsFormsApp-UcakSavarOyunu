@@ -1,0 +1,10 @@
+C:\Users\AliOnur\Desktop\AliOnurUlker_G151210122\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe.config
+C:\Users\AliOnur\Desktop\AliOnurUlker_G151210122\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+C:\Users\AliOnur\Desktop\AliOnurUlker_G151210122\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+C:\Users\AliOnur\Desktop\AliOnurUlker_G151210122\WindowsFormsApplication10\obj\Debug\UcakSavarOyunu.csprojResolveAssemblyReference.cache
+C:\Users\AliOnur\Desktop\AliOnurUlker_G151210122\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.FormApplication.resources
+C:\Users\AliOnur\Desktop\AliOnurUlker_G151210122\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+C:\Users\AliOnur\Desktop\AliOnurUlker_G151210122\WindowsFormsApplication10\obj\Debug\UcakSavarOyunu.csproj.GenerateResource.Cache
+C:\Users\AliOnur\Desktop\AliOnurUlker_G151210122\WindowsFormsApplication10\obj\Debug\UcakSavarOyunu.csproj.CoreCompileInputs.cache
+C:\Users\AliOnur\Desktop\AliOnurUlker_G151210122\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+C:\Users\AliOnur\Desktop\AliOnurUlker_G151210122\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb
